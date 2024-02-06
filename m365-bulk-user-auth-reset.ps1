@@ -9,7 +9,7 @@
 ## - force password change at next logon
 ## - enable MFA
 ## 
-## This script might turn out te be usefull when reponding to an incident or when strengthening the security of your M365 environment.
+## This script might turn out to be usefull when reponding to an incident or when strengthening the security of your M365 environment.
 ## Make sure to change the filepath that points to the users.txt file. 
 ##
 #### VERSION HISTORY
